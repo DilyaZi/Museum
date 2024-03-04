@@ -114,6 +114,8 @@ p {
 }
 
 .Together {
+    display:flex;
+    justify-content: center;
     width:109%;
     height:35%;
     margin-left: -5%;
