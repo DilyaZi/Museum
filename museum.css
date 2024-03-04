@@ -120,7 +120,9 @@ p {
 } 
 
 .girls{
-    width:130%;
+    display:flex;
+    justify-content: center;
+    width:115%;
     height:35%; 
     margin-left: -5%;
     margin-top: 1%";
