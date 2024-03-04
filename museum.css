@@ -132,7 +132,8 @@ p {
 
 @media (orientation: portrait) {
     .Ornament{
-        margin-left: 30%;
+        display: flex;
+        justify-content:center;
 
     }
 
